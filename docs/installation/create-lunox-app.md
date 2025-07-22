@@ -25,6 +25,4 @@ Type the name of your app and press `Enter`.
 ? Please enter your app name: (my-lunox-app)
 ```
 
-Wait until the installation is complete and follow the instructions to run your Lunox app.
-
-Congratulations! You are now ready to use the Lunox framework. 😊
+Wait until the installati
